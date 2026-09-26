@@ -1,4 +1,4 @@
-## Hi there 👋
+![Welcome](https://media1.tenor.com/m/SpXWQo0Mq7EAAAAC/welcome-michael-scott.gif)
 
 <!--
 **jolocansana/jolocansana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
